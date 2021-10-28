@@ -8,3 +8,4 @@ generated_bias_report/
 generated_profiler_report/
 model_evaluation/
 __pycache__/
+.ipynb_checkpoints
