@@ -71,7 +71,7 @@ AWSコンソールの検索バーに `SageMaker` と入力し、`Amazon SageMake
 
 ![](./img/studio_open_bp.png)
 
-![](./img/studio_loding.png)
+![](./img/studio_loading.png)
 
 ### 3. Studio内で新しいターミナルを起動
 
